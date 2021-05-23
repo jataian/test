@@ -1,0 +1,113 @@
+[
+    {
+      "category_id": "1",
+      "category_name": "जानवर"
+    },
+    {
+      "category_id": "2",
+      "category_name": "पक्षी"
+    },
+    {
+      "category_id": "3",
+      "category_name": "फल"
+    },
+    {
+      "category_id": "4",
+      "category_name": "गणित"
+    },
+    {
+      "category_id": "5",
+      "category_name": "प्यार"
+    },
+    {
+      "category_id": "6",
+      "category_name": "पानी"
+    },
+    {
+      "category_id": "7",
+      "category_name": "पृथ्वी"
+    },
+    {
+      "category_id": "8",
+      "category_name": "मानव शरीर"
+    },
+    {
+      "category_id": "9",
+      "category_name": "टेलीविजन"
+    },
+    {
+      "category_id": "10",
+      "category_name": "इंटरनेट"
+    },
+    {
+      "category_id": "11",
+      "category_name": "ऐतिहासिक निर्माण"
+    },
+    {
+      "category_id": "12",
+      "category_name": "नदी"
+    },
+    {
+      "category_id": "13",
+      "category_name": "देश"
+    },
+    {
+      "category_id": "14",
+      "category_name": "खेल"
+    },
+    {
+      "category_id": "15",
+      "category_name": "शतरंग"
+    },
+    {
+      "category_id": "16",
+      "category_name": "दुनिया"
+    },
+    {
+      "category_id": "17",
+      "category_name": "विज्ञान"
+    },
+    {
+      "category_id": "18",
+      "category_name": "भारत"
+    },
+    {
+      "category_id": "19",
+      "category_name": "इतिहास"
+    },
+    {
+      "category_id": "20",
+      "category_name": "टेक्नोलॉजी"
+    },
+    {
+      "category_id": "21",
+      "category_name": "अंतरिक्ष"
+    },
+    {
+      "category_id": "22",
+      "category_name": "आँख"
+    },
+    {
+      "category_id": "23",
+      "category_name": "चाय"
+    },
+    {
+      "category_id": "24",
+      "category_name": "संगीत"
+    },
+    {
+      "category_id": "25",
+      "category_name": "नींद"
+    },
+    {
+      "category_id": "26",
+      "category_name": "भोजन"
+    },
+    {
+      "category_id": "27",
+      "category_name": "लाइफ"
+
+    }
+
+
+  ]
