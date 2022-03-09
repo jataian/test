@@ -1,0 +1,20 @@
+[
+{
+"que" = "This is first question and answer is c",
+"a" = "Rat",
+"b" = "Buffalo",
+"c" = "Cat",
+"d" = "Dog",
+"ans" = "c",
+"exp" = "This is an explainatiopn to this question"
+},
+{
+"que" = "Choose a suitable answer",
+"a" = "Motion",
+"b" = "Momentum",
+"c" = "Work",
+"d" = "Energy",
+"ans" = "b",
+"exp" = "Work is done when someone inspired by it"
+}
+]
