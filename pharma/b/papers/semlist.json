@@ -1,26 +1,42 @@
 [
-{"title" : "Semester 1",
+{
+"final" : "false",
 "nexturl" : "sem1.json",
-"final" ; "false"},
-{"title" : "Semester 2",
+"title" : "Semester 1"
+},
+{
+"final" : "false",
 "nexturl" : "sem2.json",
-"final" ; "false"},
-{"title" : "Semester 3",
+"title" : "Semester 2"
+},
+{
+"final" : "false",
 "nexturl" : "sem3.json",
-"final" ; "false"},
-{"title" : "Semester 4",
+"title" : "Semester 3"
+},
+{
+"final" : "false",
 "nexturl" : "sem4.json",
-"final" ; "false"},
-{"title" : "Semester 5",
+"title" : "Semester 4"
+},
+{
+"final" : "false",
 "nexturl" : "sem5.json",
-"final" ; "false"},
-{"title" : "Semester 6",
+"title" : "Semester 5"
+},
+{
+"final" : "false",
 "nexturl" : "sem6.json",
-"final" ; "false"},
-{"title" : "Semester 7",
+"title" : "Semester 6"
+},
+{
+"final" : "false",
 "nexturl" : "sem7.json",
-"final" ; "false"},
-{"title" : "Semester 8",
+"title" : "Semester 7"
+},
+{
+"final" : "false",
 "nexturl" : "sem8.json",
-"final" ; "false"}
+"title" : "Semester 8"
+}
 ]
