@@ -1,0 +1,27 @@
+[
+{
+"final" : "false",
+"nexturl" : "sem2aug2018.json",
+"title" : "August 2018"
+},
+{
+"final" : "false",
+"nexturl" : "sem2aug2019.json",
+"title" : "Aug 2019"
+},
+{
+"final" : "false",
+"nexturl" : "sem2dec2020.json",
+"title" : "Dec 2020"
+},
+{
+"final" : "false",
+"nexturl" : "sem2apr2021.json",
+"title" : "Apr 2021"
+},
+{
+"final" : "false",
+"nexturl" : "sem2dec2021.json",
+"title" : "Dec 2021"
+}
+]
